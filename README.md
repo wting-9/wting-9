@@ -7,6 +7,7 @@
 - <img src="https://github.com/wting-9/wting-9/blob/main/picture1.png" width="210px">
 -![](https://github-readme-stats.vercel.app/api?username=wting-9&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/wting-9/count.svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=wting-9&theme=dracula)
 
 
 
