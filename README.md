@@ -5,5 +5,6 @@
 - about future:study hard,get high scores,and graduate
 - 📫 How to reach me: 3537896149@qq.com
 - <img src="https://github.com/wting-9/wting-9/blob/main/picture1.png" width="210px">
--
+-![](https://github-readme-stats.vercel.app/api?username=wting-9e&show_icons=true&theme=transparent)
+
 
