@@ -1,4 +1,5 @@
 - <img src="https://github.com/wting-9/wting-9/blob/main/picture2.jpg" width="420px">
+-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 - 👧 name:Wang Ting
 - 😄 I’m interested in listening to music🎧,playing volleyball🏸 and seeing films...
 - 🎯 goals of the term:learn how to cooperate in a team,improve my coding ability and learn through github
