@@ -1,5 +1,5 @@
 - <img src="https://github.com/wting-9/wting-9/blob/main/picture2.jpg" width="420px">
-- 👧 name:Wang Ting
+ 👧 name:Wang Ting
 - 😄 I’m interested in listening to music🎧,playing volleyball🏸 and seeing films...
 - 🎯 goals of the term:learn how to cooperate in a team,improve my coding ability and learn through github
 - about future:study hard,get high scores,and graduate
